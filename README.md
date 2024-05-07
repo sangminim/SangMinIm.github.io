@@ -1,1 +1,1 @@
-# SangMinIm.github.io
+This summer, I'm planning to develop a mobile website that can be accessed via a QR code. This website will function similarly to the kiosks you often see in restaurants and fast-food chains. The motivation behind this project stems from my experience working part-time as a server at a Korean restaurant. I realized that a digital ordering system like this could enhance efficiency and convenience, ensuring orders are accurate and reducing the likelihood of disputes with customers.
